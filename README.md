@@ -5,3 +5,4 @@ Day 83 - Professional Portfolio Project - [Python Web Development]
 
 Specific (and short) notes and titles written in main.py.
   Unfinished practice (02/10/2024); update tomorrow.
+    Finished practice (03/10/2024); updated.
